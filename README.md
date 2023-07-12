@@ -1,6 +1,6 @@
 ## Резюме 
 <kbd>
-  <img src="фото.jpg" &LT;br&GT; &LT;br clear="side"/&GT;/>
+  <img src="фото.jpg" &LT;br&GT;/>
 </kbd>
 
 **ФИО:** Будник Кристина Аркадьевна
