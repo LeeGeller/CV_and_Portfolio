@@ -1,7 +1,7 @@
 ## Резюме 
   <p>
     <div class="pull-right">
-      <img src="фото.jpg" width="300"/>
+      <img src="фото.jpg" width="200"/>
     </div>
   </p>
 <div>
