@@ -9,3 +9,6 @@
   **Опыт:** тестирование рабочей CRM на текущем месте работы.<br>
 ***
 ## Портфолио
+1. UX-testing
+* [Чек-лист]{https://docs.google.com/spreadsheets/d/1pUpVtlynmGY61bRfapwgcdAGrMMLqL7m2wjujaYL3FA/edit#gid=0}
+* []{}
