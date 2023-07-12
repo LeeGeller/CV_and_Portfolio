@@ -1,5 +1,7 @@
 ## Резюме 
-![Мое фото]([D:\Kris\Projects\CV_and_portfolio\фото](https://github.com/LeeGeller/CV_and_Portfolio/blob/main/%D1%84%D0%BE%D1%82%D0%BE.jpg))
+<kbd>
+  <img src="фото.jpg" />
+</kbd>!
 
 **ФИО:** Будник Кристина Аркадьевна
 **Дата** рождения: 30.10.1992 год
