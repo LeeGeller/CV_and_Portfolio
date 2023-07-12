@@ -1,10 +1,10 @@
 ## Резюме 
 ***
-<div class="pull-left">
   <kbd>
-    <img src="фото.jpg" width="300"/>
+    <div class="pull-left">
+      <img src="фото.jpg" width="300"/>
+    </div>
   </kbd>
-</div>
 <div>
 ФИО: Будник Кристина Аркадьевна<br>
 Дата рождения: 30.10.1992 год<br>
