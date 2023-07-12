@@ -17,7 +17,7 @@
 * [Баг-репорт](https://docs.google.com/spreadsheets/d/165yJfRzKHFV12ofHt6l8XWgRpKcMQ4WeECLh6lHmAVg/edit#gid=0), [баг репорт](https://docs.google.com/spreadsheets/d/1JbWlRJ25g0wgaHn0vG4bwWCVgM_OQ-ONzfWMQhOT3Uk/edit#gid=0)
 * [Тестирование верстки](https://docs.google.com/document/d/1wbJaeIz_O0lA_F951_3NjpiSbx88o29LY6VKSrVqFqc/edit), [клиент-серверное тестирование](https://docs.google.com/document/d/1BOtTMcTsecLdjLZyO2iYgxJONVLZ9ol_gBZI5v8Igyg/edit)
 2. Написание автотестов
-* [Ссылка на заключительный командный проект](https://github.com/LeeGeller/Team_Project)
+* [Ссылка на заключительный командный проект по Java](https://github.com/LeeGeller/Team_Project)
 * [PostmanEcho](https://github.com/LeeGeller/PostmanEcho)
 * [Selenium](https://github.com/LeeGeller/test_with_Selenium)
 * [Тестирование API](https://github.com/LeeGeller/CI-and-API)
