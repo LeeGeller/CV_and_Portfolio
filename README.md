@@ -25,6 +25,6 @@
 * [Java, ООП](https://github.com/LeeGeller/Task)
 ***
 ## Контакты
-**[Telegram:]([https://www.linkedin.com/in/kristina-budnik-44a11927a/](https://t.me/BoboBoWhisky))**
+**[Telegram:](https://t.me/BoboBoWhisky))**
 **[Linkedin:](https://www.linkedin.com/in/kristina-budnik-44a11927a/)**
-**[HH:]([https://www.linkedin.com/in/kristina-budnik-44a11927a/](https://hh.ru/resume/c3f76a44ff0be6e5b20039ed1f4b4354446665)https://hh.ru/resume/c3f76a44ff0be6e5b20039ed1f4b4354446665)**
+**[HH:](https://hh.ru/resume/c3f76a44ff0be6e5b20039ed1f4b4354446665)**
